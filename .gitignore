@@ -1,0 +1,30 @@
+# macOS Finder files
+.DS_Store
+
+# Project-specific files and directories
+#.gitignore
+#Readme.md
+
+# Directories
+#TodoApp/
+#assets/
+myenv/
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Dependency directories
+venv/
+env/
+
+# Optional: IDE-specific files
+.idea/
+.vscode/
+
+# Optional: Logs and databases
+*.log
+*.db
